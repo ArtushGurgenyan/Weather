@@ -1,0 +1,27 @@
+.weatherStat {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  background-color: white;
+  padding: 10px;
+  width: 700px;
+  margin-top: 10px;
+  transition: 0.5s ease;
+  text-align: center;
+}
+
+.icons {
+  width: 70px;
+}
+
+.card {
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.weath {
+  display: flex;
+  margin-top: 20px;
+}
+
+.max_temp {
+  font-weight: 700;
+}
